@@ -9,6 +9,7 @@ my solution for some leetcode tasks
 | 20. Valid Parentheses | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/20.%20Valid%20Parentheses.md) |
 | 21. Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | 
 | 66. Plus One | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/66.%20Plus%20One.md) | 
+| 70. Climbing Stairs | [here](https://github.com/ParshinAD/leetcode/blob/ae2517e1675eab6e1f048bcd0c42fbda3ef691d1/algorithms/70.%20Climbing%20Stairs.md) |
 | 175. Combine Two Tables | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) |
 | 176. Second Highest Salary | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/176.%20Second%20Highest%20Salary.md) |
 | 175. Combine Two Tables| [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) |
