@@ -20,6 +20,7 @@ my solution for some leetcode tasks
 | 223. Rectangle Area | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/223.%20Rectangle%20Area.md)|
 | 374. Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)|
 | 380. Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md)
+| 1207. Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md)
 | 2225. Find Players With Zero or One Losses | [here](https://github.com/ParshinAD/leetcode/blob/7cd974f0228cb3c22e402847d234849400018d80/algorithms/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md) |
 
 
