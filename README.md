@@ -5,6 +5,7 @@ my solution for some leetcode tasks
 | ------------------- | ------------------- |
 | 1. Two Sum | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/1.%20Two%20Sum.md)|
 | 2. Add Two Numbers | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/2.%20Add%20Two%20Numbers.md)|
+| 3. Longest Substring Without Repeating Characters | [here](https://github.com/ParshinAD/leetcode/blob/11f9c3c455f47c93b549f661d6a19cb9f657849a/algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |
 | 13. Roman to Integer | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/13.%20Roman%20to%20Integer.md) |
 | 20. Valid Parentheses | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/20.%20Valid%20Parentheses.md) |
 | 21. Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | 
