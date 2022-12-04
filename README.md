@@ -27,5 +27,5 @@ my solution for some leetcode tasks
 | 1657. Determine if Two Strings Are Close | [here](https://github.com/ParshinAD/leetcode/blob/8c353901ab02988067d8204ab8481170fa70ad3f/algorithms/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md)
 | 1704. Determine if String Halves Are Alike | [here](https://github.com/ParshinAD/leetcode/blob/bdbe038c5b3be25bf3d1df551a9ecfb392346e21/algorithms/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) |
 | 2225. Find Players With Zero or One Losses | [here](https://github.com/ParshinAD/leetcode/blob/7cd974f0228cb3c22e402847d234849400018d80/algorithms/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md) |
-
+| 2256. Minimum Average Difference | [here](https://github.com/ParshinAD/leetcode/blob/a80e54c461deeca1308584d2f92b1d8133ca2ecd/algorithms/2256.%20Minimum%20Average%20Difference.md) |
 
