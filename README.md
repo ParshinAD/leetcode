@@ -11,17 +11,14 @@ my solution for some leetcode tasks
 | 20 | Valid Parentheses | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/20.%20Valid%20Parentheses.md) | Easy |
 | 21 | Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | Easy |
 | 26 | Remove Duplicates from Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
-| 36 | Valid Sudoku | [here](https://github.com/ParshinAD/leetcode/blob/2c40bf48cdeb9c8521b9fbfff8e3082f149f2567/algorithms/36.%20Valid%20Sudoku.md) | 
-Medium |
+| 36 | Valid Sudoku | [here](https://github.com/ParshinAD/leetcode/blob/2c40bf48cdeb9c8521b9fbfff8e3082f149f2567/algorithms/36.%20Valid%20Sudoku.md) | Medium |
 | 66 | Plus One | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/66.%20Plus%20One.md) | Easy |
 | 69 | Sqrt(x) | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/69.%20Sqrt(x).%20md) | Easy |
 | 70 | Climbing Stairs | [here](https://github.com/ParshinAD/leetcode/blob/ae2517e1675eab6e1f048bcd0c42fbda3ef691d1/algorithms/70.%20Climbing%20Stairs.md) | Easy |
-| 94 | Binary Tree Inorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8f55dede16551206d7ba178bf582b943b343891f/algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md) | 
-Easy |
+| 94 | Binary Tree Inorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8f55dede16551206d7ba178bf582b943b343891f/algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy |
 | 118 | Pascal's Triangle | [here](https://github.com/ParshinAD/leetcode/blob/5d257cb1f9120751b5a5ac2a7094994ec05654d0/algorithms/118.%20Pascal's%20Triangle.md) | Easy |
 | 121 | Best Time to Buy and Sell Stock | [here](https://github.com/ParshinAD/leetcode/blob/fc5be3fadb413edde499f1197a7b1d5611912400/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | Easy |
-| 175 | Combine Two Tables | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) | 
-Easy |
+| 175 | Combine Two Tables | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) | Easy |
 | 176 | Second Highest Salary | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/176.%20Second%20Highest%20Salary.md) | Medium |
 | 185 | Department Top Three Salaries | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/185.%20Department%20Top%20Three%20Salaries.md)| Hard |
 | 217 | Contains Duplicate | [here](https://github.com/ParshinAD/leetcode/blob/e2aab43a314f15b512042b3d106daf7988a10923/algorithms/217.%20Contains%20Duplicate.md) | Easy | 
@@ -29,7 +26,7 @@ Easy |
 | 223 | Rectangle Area | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/223.%20Rectangle%20Area.md)| Medium |
 | 237 | Delete Node in a Linked List | [here](https://github.com/ParshinAD/leetcode/blob/0e46becd018339d956d8f5df2ac0fbfa32356e09/algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | Medium |
 | 263 | Ugly Number | [here](https://github.com/ParshinAD/leetcode/blob/6f554ab4b2f5c2812d2d90096b29ca8611ce6055/algorithms/263.%20Ugly%20Number.md) | Easy |
-| 279 | Perfect Squares | [here](https://github.com/ParshinAD/leetcode/blob/6f554ab4b2f5c2812d2d90096b29ca8611ce6055/algorithms/279.%20Perfect%20Squares.md) | Easy |
+| 279 | Perfect Squares | [here](https://github.com/ParshinAD/leetcode/blob/6f554ab4b2f5c2812d2d90096b29ca8611ce6055/algorithms/279.%20Perfect%20Squares.md) | Medium |
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
