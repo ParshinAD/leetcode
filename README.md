@@ -27,6 +27,7 @@ my solution for some leetcode tasks
 | 237 | Delete Node in a Linked List | [here](https://github.com/ParshinAD/leetcode/blob/0e46becd018339d956d8f5df2ac0fbfa32356e09/algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | Medium |
 | 263 | Ugly Number | [here](https://github.com/ParshinAD/leetcode/blob/6f554ab4b2f5c2812d2d90096b29ca8611ce6055/algorithms/263.%20Ugly%20Number.md) | Easy |
 | 279 | Perfect Squares | [here](https://github.com/ParshinAD/leetcode/blob/6f554ab4b2f5c2812d2d90096b29ca8611ce6055/algorithms/279.%20Perfect%20Squares.md) | Medium |
+| 328 | Odd Even Linked List | [here](https://github.com/ParshinAD/leetcode/blob/5b42e48124c1e9c60efc0e3c54e2e7cdf13857b7/algorithms/328.%20Odd%20Even%20Linked%20List.md) | Medium |
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
