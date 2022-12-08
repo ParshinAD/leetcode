@@ -31,6 +31,7 @@ my solution for some leetcode tasks
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
+| 872 | Leaf-Similar Trees | [here](https://github.com/ParshinAD/leetcode/blob/e655f0c73fef54d8c0ef2bbe087be0c1a1e3f0c1/algorithms/872.%20Leaf-Similar%20Trees.md) | Easy |
 | 876 | Middle of the Linked List | [here](https://github.com/ParshinAD/leetcode/blob/9b373b68f407c24095087cc6ca278f7daa17a311/algorithms/876.%20Middle%20of%20the%20Linked%20List.md) | Easy |
 | 938 | Range Sum of BST | [here](https://github.com/ParshinAD/leetcode/blob/baa196901bc49accb94c6ddb58d6b60e70896247/algorithms/938.%20Range%20Sum%20of%20BST.md) | Easy |
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
