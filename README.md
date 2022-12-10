@@ -37,6 +37,7 @@ my solution for some leetcode tasks
 | 938 | Range Sum of BST | [here](https://github.com/ParshinAD/leetcode/blob/baa196901bc49accb94c6ddb58d6b60e70896247/algorithms/938.%20Range%20Sum%20of%20BST.md) | Easy |
 | 1026 | Maximum Difference Between Node and Ancestor | [here](https://github.com/ParshinAD/leetcode/blob/2c169d6bd07bd6f12ce80ee59e38205d856fbfd9/algorithms/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | Medium |
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
+| 1339 | Maximum Product of Splitted Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/26674716066b948f2bb548980fadd9636bccb955/algorithms/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md) |Medium |
 | 1657 | Determine if Two Strings Are Close | [here](https://github.com/ParshinAD/leetcode/blob/8c353901ab02988067d8204ab8481170fa70ad3f/algorithms/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md) | Medium |
 | 1704 | Determine if String Halves Are Alike | [here](https://github.com/ParshinAD/leetcode/blob/bdbe038c5b3be25bf3d1df551a9ecfb392346e21/algorithms/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | Easy |
 | 2225 | Find Players With Zero or One Losses | [here](https://github.com/ParshinAD/leetcode/blob/7cd974f0228cb3c22e402847d234849400018d80/algorithms/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md) | Medium |
