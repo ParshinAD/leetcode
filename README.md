@@ -9,6 +9,7 @@ my solution for some leetcode tasks
 | 11 | Container With Most Water | [here](https://github.com/ParshinAD/leetcode/blob/0ecda13ebda12f702d9fed3c4dc9f319e5f570cd/algorithms/11.%20Container%20With%20Most%20Water.md) | Medium |
 | 13 | Roman to Integer | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/13.%20Roman%20to%20Integer.md) | Easy |
 | 14 | Longest Common Prefix | [here](https://github.com/ParshinAD/leetcode/blob/a94aa556e7a44d1b8b65e713c2b66d6e8830dcdf/algorithms/14%20Longest%20Common%20Prefix.md) | Easy |
+| 15 | 3Sum | [here](https://github.com/ParshinAD/leetcode/blob/444d0647e146a9ca9c638d71f17fd226c149a3fb/algorithms/15.%203Sum.md) | Medium |
 | 20 | Valid Parentheses | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/20.%20Valid%20Parentheses.md) | Easy |
 | 21 | Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | Easy |
 | 26 | Remove Duplicates from Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
