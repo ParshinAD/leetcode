@@ -36,6 +36,7 @@ my solution for some leetcode tasks
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
 | 872 | Leaf-Similar Trees | [here](https://github.com/ParshinAD/leetcode/blob/e655f0c73fef54d8c0ef2bbe087be0c1a1e3f0c1/algorithms/872.%20Leaf-Similar%20Trees.md) | Easy |
 | 876 | Middle of the Linked List | [here](https://github.com/ParshinAD/leetcode/blob/9b373b68f407c24095087cc6ca278f7daa17a311/algorithms/876.%20Middle%20of%20the%20Linked%20List.md) | Easy |
+| 931 | Minimum Falling Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/342f4f700b6c335a35c595a5fb9c48e0c9067a38/algorithms/931.%20Minimum%20Falling%20Path%20Sum.md) | Medium | 
 | 938 | Range Sum of BST | [here](https://github.com/ParshinAD/leetcode/blob/baa196901bc49accb94c6ddb58d6b60e70896247/algorithms/938.%20Range%20Sum%20of%20BST.md) | Easy |
 | 1026 | Maximum Difference Between Node and Ancestor | [here](https://github.com/ParshinAD/leetcode/blob/2c169d6bd07bd6f12ce80ee59e38205d856fbfd9/algorithms/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | Medium |
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
