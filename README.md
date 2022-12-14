@@ -24,6 +24,7 @@ my solution for some leetcode tasks
 | 175 | Combine Two Tables | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) | Easy |
 | 176 | Second Highest Salary | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/176.%20Second%20Highest%20Salary.md) | Medium |
 | 185 | Department Top Three Salaries | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/185.%20Department%20Top%20Three%20Salaries.md)| Hard |
+| 198 | House Robber | [here](https://github.com/ParshinAD/leetcode/blob/670c4a4e156a534b886d4256fc6bc07c6691ef7f/algorithms/198.%20House%20Robber.md) | Medium |
 | 217 | Contains Duplicate | [here](https://github.com/ParshinAD/leetcode/blob/e2aab43a314f15b512042b3d106daf7988a10923/algorithms/217.%20Contains%20Duplicate.md) | Easy | 
 | 222 | Count Complete Tree Nodes | [here](https://github.com/ParshinAD/leetcode/blob/e2aab43a314f15b512042b3d106daf7988a10923/algorithms/222.%20Count%20Complete%20Tree%20Nodes.md) | Medium |
 | 223 | Rectangle Area | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/223.%20Rectangle%20Area.md)| Medium |
