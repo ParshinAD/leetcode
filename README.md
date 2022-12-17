@@ -21,6 +21,7 @@ my solution for some leetcode tasks
 | 118 | Pascal's Triangle | [here](https://github.com/ParshinAD/leetcode/blob/5d257cb1f9120751b5a5ac2a7094994ec05654d0/algorithms/118.%20Pascal's%20Triangle.md) | Easy |
 | 121 | Best Time to Buy and Sell Stock | [here](https://github.com/ParshinAD/leetcode/blob/fc5be3fadb413edde499f1197a7b1d5611912400/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | Easy |
 | 124 | Binary Tree Maximum Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/961a02456c8ad6e0be18f957e026e5c015377522/algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | Hard |
+| 150 | Evaluate Reverse Polish Notation | [here](https://github.com/ParshinAD/leetcode/blob/9ebb7a3d5fbca6eebf833248aa21a654cfa3f9fd/algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation.md) | Medium | 
 | 175 | Combine Two Tables | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) | Easy |
 | 176 | Second Highest Salary | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/176.%20Second%20Highest%20Salary.md) | Medium |
 | 185 | Department Top Three Salaries | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/185.%20Department%20Top%20Three%20Salaries.md)| Hard |
