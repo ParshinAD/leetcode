@@ -14,6 +14,7 @@ my solution for some leetcode tasks
 | 21 | Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | Easy |
 | 26 | Remove Duplicates from Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
 | 36 | Valid Sudoku | [here](https://github.com/ParshinAD/leetcode/blob/2c40bf48cdeb9c8521b9fbfff8e3082f149f2567/algorithms/36.%20Valid%20Sudoku.md) | Medium |
+| 56 | Merge Intervals | [here](https://github.com/ParshinAD/leetcode/blob/d28852352bba48c94dc1c77c3b8cc3bdf2af81fa/algorithms/56.%20Merge%20Intervals.md) | Medium |
 | 66 | Plus One | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/66.%20Plus%20One.md) | Easy |
 | 69 | Sqrt(x) | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/69.%20Sqrt(x).%20md) | Easy |
 | 70 | Climbing Stairs | [here](https://github.com/ParshinAD/leetcode/blob/ae2517e1675eab6e1f048bcd0c42fbda3ef691d1/algorithms/70.%20Climbing%20Stairs.md) | Easy |
