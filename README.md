@@ -53,6 +53,7 @@ my solution for some leetcode tasks
 | 1657 | Determine if Two Strings Are Close | [here](https://github.com/ParshinAD/leetcode/blob/8c353901ab02988067d8204ab8481170fa70ad3f/algorithms/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md) | Medium |
 | 1704 | Determine if String Halves Are Alike | [here](https://github.com/ParshinAD/leetcode/blob/bdbe038c5b3be25bf3d1df551a9ecfb392346e21/algorithms/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | Easy |
 | 1971 | Find if Path Exists in Graph | [here](https://github.com/ParshinAD/leetcode/blob/da1a569c22a3aff36740a0d4e18d988646c03202/algorithms/1971.%20Find%20if%20Path%20Exists%20in%20Graph.md) | Easy |
+| 1962 | Remove Stones to Minimize the Total(heapq) | [here](https://github.com/ParshinAD/leetcode/blob/d96495d60b690d85593f97e3795f0d878920e8e8/algorithms/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.md) | Medium |
 | 2225 | Find Players With Zero or One Losses | [here](https://github.com/ParshinAD/leetcode/blob/7cd974f0228cb3c22e402847d234849400018d80/algorithms/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md) | Medium |
 | 2256 | Minimum Average Difference | [here](https://github.com/ParshinAD/leetcode/blob/a80e54c461deeca1308584d2f92b1d8133ca2ecd/algorithms/2256.%20Minimum%20Average%20Difference.md) | Medium |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [here](https://github.com/ParshinAD/leetcode/blob/a5e1807152845b0baea667d452b233fc094e1ee9/algorithms/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.md) | Medium | 
