@@ -41,7 +41,7 @@ my solution for some leetcode tasks
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
-| 797 | All Paths From Source to Target | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
+| 797 | All Paths From Source to Target (DFS) | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
 | 841 | Keys and Rooms | [here](https://github.com/ParshinAD/leetcode/blob/82ee125f7457624d242cf05062b9bd58254c438b/algorithms/841.%20Keys%20and%20Rooms.md) | Medium |
 | 872 | Leaf-Similar Trees | [here](https://github.com/ParshinAD/leetcode/blob/e655f0c73fef54d8c0ef2bbe087be0c1a1e3f0c1/algorithms/872.%20Leaf-Similar%20Trees.md) | Easy |
 | 876 | Middle of the Linked List | [here](https://github.com/ParshinAD/leetcode/blob/9b373b68f407c24095087cc6ca278f7daa17a311/algorithms/876.%20Middle%20of%20the%20Linked%20List.md) | Easy |
