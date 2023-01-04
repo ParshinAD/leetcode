@@ -61,6 +61,7 @@ my solution for some leetcode tasks
 | 1962 | Remove Stones to Minimize the Total (heapq) | [here](https://github.com/ParshinAD/leetcode/blob/d96495d60b690d85593f97e3795f0d878920e8e8/algorithms/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.md) | Medium |
 | 1971 | Find if Path Exists in Graph | [here](https://github.com/ParshinAD/leetcode/blob/da1a569c22a3aff36740a0d4e18d988646c03202/algorithms/1971.%20Find%20if%20Path%20Exists%20in%20Graph.md) | Easy |
 | 2225 | Find Players With Zero or One Losses | [here](https://github.com/ParshinAD/leetcode/blob/7cd974f0228cb3c22e402847d234849400018d80/algorithms/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md) | Medium |
+| 2244 | Minimum Rounds to Complete All Tasks | [here](https://github.com/ParshinAD/leetcode/blob/57a2d73f805203d89b0bbf1e1d923ecb011f631f/algorithms/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.md) | Medium |
 | 2256 | Minimum Average Difference | [here](https://github.com/ParshinAD/leetcode/blob/a80e54c461deeca1308584d2f92b1d8133ca2ecd/algorithms/2256.%20Minimum%20Average%20Difference.md) | Medium |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [here](https://github.com/ParshinAD/leetcode/blob/a5e1807152845b0baea667d452b233fc094e1ee9/algorithms/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.md) | Medium | 
 | 2389 | Longest Subsequence With Limited Sum | [here](https://github.com/ParshinAD/leetcode/blob/4ecfc46a959ff7c9725a7a7bc3b7fcf8a57e5cbc/algorithms/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.md) | Easy |
