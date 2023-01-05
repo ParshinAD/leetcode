@@ -42,6 +42,7 @@ my solution for some leetcode tasks
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
+| 452 | Minimum Number of Arrows to Burst Balloons | [here](https://github.com/ParshinAD/leetcode/blob/75aefffff4e1947727950addb79be04b66f46635/algorithms/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | Medium | 
 | 520 | Detect Capital | [here](https://github.com/ParshinAD/leetcode/blob/acdaa6cabb34ec013d27756835a70dd917f3eb30/algorithms/520.%20Detect%20Capital.md) | Easy |
 | 797 | All Paths From Source to Target (DFS) | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
 | 841 | Keys and Rooms | [here](https://github.com/ParshinAD/leetcode/blob/82ee125f7457624d242cf05062b9bd58254c438b/algorithms/841.%20Keys%20and%20Rooms.md) | Medium |
