@@ -58,6 +58,7 @@ my solution for some leetcode tasks
 | 1339 | Maximum Product of Splitted Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/26674716066b948f2bb548980fadd9636bccb955/algorithms/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md) |Medium |
 | 1657 | Determine if Two Strings Are Close | [here](https://github.com/ParshinAD/leetcode/blob/8c353901ab02988067d8204ab8481170fa70ad3f/algorithms/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md) | Medium |
 | 1704 | Determine if String Halves Are Alike | [here](https://github.com/ParshinAD/leetcode/blob/bdbe038c5b3be25bf3d1df551a9ecfb392346e21/algorithms/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | Easy |
+| 1833 | Maximum Ice Cream Bars | [here](https://github.com/ParshinAD/leetcode/blob/c88138d8a22ec2375e95241229d4aeced8614054/algorithms/1833.%20Maximum%20Ice%20Cream%20Bars.md) | Medium |
 | 1834 | Single-Threaded CPU | [here](https://github.com/ParshinAD/leetcode/blob/640aa624b9f49c06881076ac65eb990b0bf877b4/algorithms/1834.%20Single-Threaded%20CPU.md) | Medium | 
 | 1962 | Remove Stones to Minimize the Total (heapq) | [here](https://github.com/ParshinAD/leetcode/blob/d96495d60b690d85593f97e3795f0d878920e8e8/algorithms/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.md) | Medium |
 | 1971 | Find if Path Exists in Graph | [here](https://github.com/ParshinAD/leetcode/blob/da1a569c22a3aff36740a0d4e18d988646c03202/algorithms/1971.%20Find%20if%20Path%20Exists%20in%20Graph.md) | Easy |
