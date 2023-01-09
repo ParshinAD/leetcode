@@ -25,6 +25,7 @@ my solution for some leetcode tasks
 | 121 | Best Time to Buy and Sell Stock | [here](https://github.com/ParshinAD/leetcode/blob/fc5be3fadb413edde499f1197a7b1d5611912400/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | Easy |
 | 124 | Binary Tree Maximum Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/961a02456c8ad6e0be18f957e026e5c015377522/algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | Hard |
 | 134 | Gas Station | [here](https://github.com/ParshinAD/leetcode/blob/c4ee6a731cc2c8c75880a16284b576beefd4d43e/algorithms/134.%20Gas%20Station.md) | Medium |
+| 144 | Binary Tree Preorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/26c7c57659c97d0bb4b90bbb510c27a537419c57/algorithms/144.%20Binary%20Tree%20Preorder%20Traversal.md) | Easy |
 | 149 | Max Points on a Line | [here](https://github.com/ParshinAD/leetcode/blob/08f0f580fdb9b45ebd147b1f57709e79f52bde30/algorithms/149.%20Max%20Points%20on%20a%20Line.md) | Hard |
 | 150 | Evaluate Reverse Polish Notation | [here](https://github.com/ParshinAD/leetcode/blob/9ebb7a3d5fbca6eebf833248aa21a654cfa3f9fd/algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation.md) | Medium | 
 | 175 | Combine Two Tables | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) | Easy |
