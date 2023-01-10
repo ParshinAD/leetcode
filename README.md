@@ -22,6 +22,7 @@ my solution for some leetcode tasks
 | 69 | Sqrt(x) | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/69.%20Sqrt(x).%20md) | Easy |
 | 70 | Climbing Stairs | [here](https://github.com/ParshinAD/leetcode/blob/ae2517e1675eab6e1f048bcd0c42fbda3ef691d1/algorithms/70.%20Climbing%20Stairs.md) | Easy |
 | 94 | Binary Tree Inorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8f55dede16551206d7ba178bf582b943b343891f/algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy |
+| 100 | Same Tree | [here](https://github.com/ParshinAD/leetcode/blob/ae5837ee49b5b54333ced2409f33aefd9342593d/algorithms/100.%20Same%20Tree.md) | Easy |
 | 118 | Pascal's Triangle | [here](https://github.com/ParshinAD/leetcode/blob/5d257cb1f9120751b5a5ac2a7094994ec05654d0/algorithms/118.%20Pascal's%20Triangle.md) | Easy |
 | 121 | Best Time to Buy and Sell Stock | [here](https://github.com/ParshinAD/leetcode/blob/fc5be3fadb413edde499f1197a7b1d5611912400/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | Easy |
 | 124 | Binary Tree Maximum Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/961a02456c8ad6e0be18f957e026e5c015377522/algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | Hard |
