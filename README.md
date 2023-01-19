@@ -55,6 +55,7 @@ my solution for some leetcode tasks
 | 841 | Keys and Rooms | [here](https://github.com/ParshinAD/leetcode/blob/82ee125f7457624d242cf05062b9bd58254c438b/algorithms/841.%20Keys%20and%20Rooms.md) | Medium |
 | 872 | Leaf-Similar Trees | [here](https://github.com/ParshinAD/leetcode/blob/e655f0c73fef54d8c0ef2bbe087be0c1a1e3f0c1/algorithms/872.%20Leaf-Similar%20Trees.md) | Easy |
 | 876 | Middle of the Linked List | [here](https://github.com/ParshinAD/leetcode/blob/9b373b68f407c24095087cc6ca278f7daa17a311/algorithms/876.%20Middle%20of%20the%20Linked%20List.md) | Easy |
+| 918 | Maximum Sum Circular Subarray | [here](https://github.com/ParshinAD/leetcode/blob/341fc099bd70d03a4ab9e0b5d1c6470f8d4dea04/algorithms/918.%20Maximum%20Sum%20Circular%20Subarray.md) | Medium | 
 | 926 | Flip String to Monotone Increasing | [here](https://github.com/ParshinAD/leetcode/blob/33dd159174e7cf350329bd21f4d1be49cd070351/algorithms/926.%20Flip%20String%20to%20Monotone%20Increasing.md) | Medium |
 | 931 | Minimum Falling Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/342f4f700b6c335a35c595a5fb9c48e0c9067a38/algorithms/931.%20Minimum%20Falling%20Path%20Sum.md) | Medium | 
 | 938 | Range Sum of BST | [here](https://github.com/ParshinAD/leetcode/blob/baa196901bc49accb94c6ddb58d6b60e70896247/algorithms/938.%20Range%20Sum%20of%20BST.md) | Easy |
