@@ -60,6 +60,7 @@ my solution for some leetcode tasks
 | 931 | Minimum Falling Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/342f4f700b6c335a35c595a5fb9c48e0c9067a38/algorithms/931.%20Minimum%20Falling%20Path%20Sum.md) | Medium | 
 | 938 | Range Sum of BST | [here](https://github.com/ParshinAD/leetcode/blob/baa196901bc49accb94c6ddb58d6b60e70896247/algorithms/938.%20Range%20Sum%20of%20BST.md) | Easy |
 | 944 | Delete Columns to Make Sorted | [here](https://github.com/ParshinAD/leetcode/blob/94bebdfa952f6d128e678bc5d4e4fd86a71d82b3/algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted.md) | Easy |
+| 974 | Subarray Sums Divisible by K | [here](https://github.com/ParshinAD/leetcode/blob/e6f6577faa7bf6f1e9fb26dbe6f86b2bfb1e3825/algorithms/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | Medium |
 | 980 | Unique Paths III (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/95f96a7144b3ba16dea2b1a445f3542f8396fe0d/algorithms/980.%20Unique%20Paths%20III.md) | Hard |
 | 1026 | Maximum Difference Between Node and Ancestor | [here](https://github.com/ParshinAD/leetcode/blob/2c169d6bd07bd6f12ce80ee59e38205d856fbfd9/algorithms/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | Medium |
 | 1143 | Longest Common Subsequence | [here](https://github.com/ParshinAD/leetcode/blob/e693eb01001c45fa19b5b1b8aa27c9dab80ea11d/algorithms/1143.%20Longest%20Common%20Subsequence.md) | Medium |
