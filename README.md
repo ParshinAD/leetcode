@@ -64,6 +64,7 @@ my solution for some leetcode tasks
 | 944 | Delete Columns to Make Sorted | [here](https://github.com/ParshinAD/leetcode/blob/94bebdfa952f6d128e678bc5d4e4fd86a71d82b3/algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted.md) | Easy |
 | 974 | Subarray Sums Divisible by K | [here](https://github.com/ParshinAD/leetcode/blob/e6f6577faa7bf6f1e9fb26dbe6f86b2bfb1e3825/algorithms/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | Medium |
 | 980 | Unique Paths III (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/95f96a7144b3ba16dea2b1a445f3542f8396fe0d/algorithms/980.%20Unique%20Paths%20III.md) | Hard |
+| 997 | Find the Town Judge | [here](https://github.com/ParshinAD/leetcode/blob/de91d65920298009bbaf6babd23891b255536699/algorithms/997.%20Find%20the%20Town%20Judge.md) | Easy |
 | 1026 | Maximum Difference Between Node and Ancestor | [here](https://github.com/ParshinAD/leetcode/blob/2c169d6bd07bd6f12ce80ee59e38205d856fbfd9/algorithms/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | Medium |
 | 1143 | Longest Common Subsequence | [here](https://github.com/ParshinAD/leetcode/blob/e693eb01001c45fa19b5b1b8aa27c9dab80ea11d/algorithms/1143.%20Longest%20Common%20Subsequence.md) | Medium |
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
