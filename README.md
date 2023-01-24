@@ -29,6 +29,7 @@ my solution for some leetcode tasks
 | 118 | Pascal's Triangle | [here](https://github.com/ParshinAD/leetcode/blob/5d257cb1f9120751b5a5ac2a7094994ec05654d0/algorithms/118.%20Pascal's%20Triangle.md) | Easy |
 | 121 | Best Time to Buy and Sell Stock | [here](https://github.com/ParshinAD/leetcode/blob/fc5be3fadb413edde499f1197a7b1d5611912400/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | Easy |
 | 124 | Binary Tree Maximum Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/961a02456c8ad6e0be18f957e026e5c015377522/algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | Hard |
+| 131 | Palindrome Partitioning | [here](https://github.com/ParshinAD/leetcode/blob/d21e3be5b56cf7f913e0db02696eb0a1b5c4230f/algorithms/131.%20Palindrome%20Partitioning.md) | Medium |
 | 134 | Gas Station | [here](https://github.com/ParshinAD/leetcode/blob/c4ee6a731cc2c8c75880a16284b576beefd4d43e/algorithms/134.%20Gas%20Station.md) | Medium |
 | 144 | Binary Tree Preorder Traversal (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/26c7c57659c97d0bb4b90bbb510c27a537419c57/algorithms/144.%20Binary%20Tree%20Preorder%20Traversal.md) | Easy |
 | 149 | Max Points on a Line | [here](https://github.com/ParshinAD/leetcode/blob/08f0f580fdb9b45ebd147b1f57709e79f52bde30/algorithms/149.%20Max%20Points%20on%20a%20Line.md) | Hard |
