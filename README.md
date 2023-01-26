@@ -54,6 +54,7 @@ my solution for some leetcode tasks
 | 452 | Minimum Number of Arrows to Burst Balloons | [here](https://github.com/ParshinAD/leetcode/blob/75aefffff4e1947727950addb79be04b66f46635/algorithms/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | Medium | 
 | 491 | Non-decreasing Subsequences | [here](https://github.com/ParshinAD/leetcode/blob/68e451a993c388902ca2155f077815142873ea98/algorithms/491.%20Non-decreasing%20Subsequences.md) | Medium | 
 | 520 | Detect Capital | [here](https://github.com/ParshinAD/leetcode/blob/acdaa6cabb34ec013d27756835a70dd917f3eb30/algorithms/520.%20Detect%20Capital.md) | Easy |
+| 787 | Cheapest Flights Within K Stops | [here](https://github.com/ParshinAD/leetcode/blob/a232b1afa8f1cf3e891fc96de307bea65f86ef0f/algorithms/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) | Medium |
 | 797 | All Paths From Source to Target (DFS) | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
 | 841 | Keys and Rooms | [here](https://github.com/ParshinAD/leetcode/blob/82ee125f7457624d242cf05062b9bd58254c438b/algorithms/841.%20Keys%20and%20Rooms.md) | Medium |
 | 872 | Leaf-Similar Trees | [here](https://github.com/ParshinAD/leetcode/blob/e655f0c73fef54d8c0ef2bbe087be0c1a1e3f0c1/algorithms/872.%20Leaf-Similar%20Trees.md) | Easy |
