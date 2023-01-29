@@ -53,6 +53,7 @@ my solution for some leetcode tasks
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | [here](https://github.com/ParshinAD/leetcode/blob/75aefffff4e1947727950addb79be04b66f46635/algorithms/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | Medium | 
+| 460 | LFU Cache | [here](https://github.com/ParshinAD/leetcode/blob/629e0786f1751f01a2a461c8f7e518f22b47edbf/algorithms/460.%20LFU%20Cache.md) | Hard |
 | 472 | Concatenated Words | [here](https://github.com/ParshinAD/leetcode/blob/e7a0e0bfc557476da10df465352e3f6d84a3b65d/algorithms/472.%20Concatenated%20Words.md) | Hard | 
 | 491 | Non-decreasing Subsequences | [here](https://github.com/ParshinAD/leetcode/blob/68e451a993c388902ca2155f077815142873ea98/algorithms/491.%20Non-decreasing%20Subsequences.md) | Medium | 
 | 520 | Detect Capital | [here](https://github.com/ParshinAD/leetcode/blob/acdaa6cabb34ec013d27756835a70dd917f3eb30/algorithms/520.%20Detect%20Capital.md) | Easy |
