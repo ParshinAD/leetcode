@@ -71,6 +71,7 @@ my solution for some leetcode tasks
 | 980 | Unique Paths III (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/95f96a7144b3ba16dea2b1a445f3542f8396fe0d/algorithms/980.%20Unique%20Paths%20III.md) | Hard |
 | 997 | Find the Town Judge | [here](https://github.com/ParshinAD/leetcode/blob/de91d65920298009bbaf6babd23891b255536699/algorithms/997.%20Find%20the%20Town%20Judge.md) | Easy |
 | 1026 | Maximum Difference Between Node and Ancestor | [here](https://github.com/ParshinAD/leetcode/blob/2c169d6bd07bd6f12ce80ee59e38205d856fbfd9/algorithms/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | Medium |
+| 1071 | Greatest Common Divisor of Strings | [here](https://github.com/ParshinAD/leetcode/blob/a56b75aa7ea5ee6bc5ef094968fe0de6a2c60b66/algorithms/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) | Easy | 
 | 1137 | N-th Tribonacci Number | [here](https://github.com/ParshinAD/leetcode/blob/4b5fabebf295d4932a7a407ac8764be92ead85ac/algorithms/1137.%20N-th%20Tribonacci%20Number.md) | Easy
 | 1143 | Longest Common Subsequence | [here](https://github.com/ParshinAD/leetcode/blob/e693eb01001c45fa19b5b1b8aa27c9dab80ea11d/algorithms/1143.%20Longest%20Common%20Subsequence.md) | Medium |
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
