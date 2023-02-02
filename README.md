@@ -67,6 +67,7 @@ my solution for some leetcode tasks
 | 931 | Minimum Falling Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/342f4f700b6c335a35c595a5fb9c48e0c9067a38/algorithms/931.%20Minimum%20Falling%20Path%20Sum.md) | Medium | 
 | 938 | Range Sum of BST | [here](https://github.com/ParshinAD/leetcode/blob/baa196901bc49accb94c6ddb58d6b60e70896247/algorithms/938.%20Range%20Sum%20of%20BST.md) | Easy |
 | 944 | Delete Columns to Make Sorted | [here](https://github.com/ParshinAD/leetcode/blob/94bebdfa952f6d128e678bc5d4e4fd86a71d82b3/algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted.md) | Easy |
+| 953 | Verifying an Alien Dictionary | [here](https://github.com/ParshinAD/leetcode/blob/9d75e2230588e54db7c1a2ea910f9fc992166668/algorithms/953.%20Verifying%20an%20Alien%20Dictionary.md) | Easy | 
 | 974 | Subarray Sums Divisible by K | [here](https://github.com/ParshinAD/leetcode/blob/e6f6577faa7bf6f1e9fb26dbe6f86b2bfb1e3825/algorithms/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | Medium |
 | 980 | Unique Paths III (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/95f96a7144b3ba16dea2b1a445f3542f8396fe0d/algorithms/980.%20Unique%20Paths%20III.md) | Hard |
 | 997 | Find the Town Judge | [here](https://github.com/ParshinAD/leetcode/blob/de91d65920298009bbaf6babd23891b255536699/algorithms/997.%20Find%20the%20Town%20Judge.md) | Easy |
