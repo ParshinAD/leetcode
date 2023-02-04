@@ -58,6 +58,7 @@ my solution for some leetcode tasks
 | 472 | Concatenated Words | [here](https://github.com/ParshinAD/leetcode/blob/e7a0e0bfc557476da10df465352e3f6d84a3b65d/algorithms/472.%20Concatenated%20Words.md) | Hard | 
 | 491 | Non-decreasing Subsequences | [here](https://github.com/ParshinAD/leetcode/blob/68e451a993c388902ca2155f077815142873ea98/algorithms/491.%20Non-decreasing%20Subsequences.md) | Medium | 
 | 520 | Detect Capital | [here](https://github.com/ParshinAD/leetcode/blob/acdaa6cabb34ec013d27756835a70dd917f3eb30/algorithms/520.%20Detect%20Capital.md) | Easy |
+| 567 | Permutation in String | [here](https://github.com/ParshinAD/leetcode/blob/a768851c1c0400db1825d70969124719c6adbd75/algorithms/567.%20Permutation%20in%20String.md) | Medium | 
 | 787 | Cheapest Flights Within K Stops | [here](https://github.com/ParshinAD/leetcode/blob/a232b1afa8f1cf3e891fc96de307bea65f86ef0f/algorithms/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) | Medium |
 | 797 | All Paths From Source to Target (DFS) | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
 | 841 | Keys and Rooms | [here](https://github.com/ParshinAD/leetcode/blob/82ee125f7457624d242cf05062b9bd58254c438b/algorithms/841.%20Keys%20and%20Rooms.md) | Medium |
