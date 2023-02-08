@@ -16,6 +16,7 @@ my solution for some leetcode tasks
 | 26 | Remove Duplicates from Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
 | 35 | Search Insert Position | [here](https://github.com/ParshinAD/leetcode/blob/15dd809b978f00276b15fcaa3da470792792a4cc/algorithms/35.%20Search%20Insert%20Position.md) | Easy |
 | 36 | Valid Sudoku | [here](https://github.com/ParshinAD/leetcode/blob/2c40bf48cdeb9c8521b9fbfff8e3082f149f2567/algorithms/36.%20Valid%20Sudoku.md) | Medium |
+| 45 | Jump Game II | [here](https://github.com/ParshinAD/leetcode/blob/37a0365b11196409c9add384a1e73a1ac0a72f3a/algorithms/45.%20Jump%20Game%20II.md) | Medium |
 | 48 | Rotate Image| [here](https://github.com/ParshinAD/leetcode/blob/659207c1b12b001a4510a3d8fc38e4f874af99f4/algorithms/48.%20Rotate%20Image.md) | Medium |
 | 53 | Maximum Subarray(Kadane’s Algorithm) | [here](https://github.com/ParshinAD/leetcode/blob/20529f11b8779c88f50cfc948d9ca0a1b377fd1c/algorithms/53.%20Maximum%20Subarray.md) | Medium | 
 | 55 | Jump Game | [here](https://github.com/ParshinAD/leetcode/blob/f01c634295c5f7247eedb0801c5c03156ca2fae8/algorithms/55.%20Jump%20Game.md) | Medium |
