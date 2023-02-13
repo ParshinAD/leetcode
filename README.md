@@ -82,6 +82,7 @@ my solution for some leetcode tasks
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
 | 1339 | Maximum Product of Splitted Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/26674716066b948f2bb548980fadd9636bccb955/algorithms/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md) |Medium |
 | 1470 | Shuffle the Array | [here](https://github.com/ParshinAD/leetcode/blob/e8bc181f4e2b376bcb6f61b270421063fdf0bedc/algorithms/1470.%20Shuffle%20the%20Array.md) | Easy | 
+| 1523 | Count Odd Numbers in an Interval Range | [here](https://github.com/ParshinAD/leetcode/blob/ae058f97480e15994b6d4fd569739047fbcaa25d/algorithms/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | Easy |
 | 1626 | Best Team With No Conflicts | [here](https://github.com/ParshinAD/leetcode/blob/abba53b3d183b7e6364d89d8fabab4575ebb54e0/algorithms/1626.%20Best%20Team%20With%20No%20Conflicts.md) | Medium |
 | 1657 | Determine if Two Strings Are Close | [here](https://github.com/ParshinAD/leetcode/blob/8c353901ab02988067d8204ab8481170fa70ad3f/algorithms/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md) | Medium |
 | 1704 | Determine if String Halves Are Alike | [here](https://github.com/ParshinAD/leetcode/blob/bdbe038c5b3be25bf3d1df551a9ecfb392346e21/algorithms/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | Easy |
