@@ -75,6 +75,7 @@ my solution for some leetcode tasks
 | 953 | Verifying an Alien Dictionary | [here](https://github.com/ParshinAD/leetcode/blob/9d75e2230588e54db7c1a2ea910f9fc992166668/algorithms/953.%20Verifying%20an%20Alien%20Dictionary.md) | Easy | 
 | 974 | Subarray Sums Divisible by K | [here](https://github.com/ParshinAD/leetcode/blob/e6f6577faa7bf6f1e9fb26dbe6f86b2bfb1e3825/algorithms/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | Medium |
 | 980 | Unique Paths III (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/95f96a7144b3ba16dea2b1a445f3542f8396fe0d/algorithms/980.%20Unique%20Paths%20III.md) | Hard |
+| 989 | Add to Array-Form of Integer | [here](https://github.com/ParshinAD/leetcode/blob/1afd04bd1c6b07b1905f530a2ca797e6056d9368/algorithms/989.%20Add%20to%20Array-Form%20of%20Integer.md) | Easy |
 | 997 | Find the Town Judge | [here](https://github.com/ParshinAD/leetcode/blob/de91d65920298009bbaf6babd23891b255536699/algorithms/997.%20Find%20the%20Town%20Judge.md) | Easy |
 | 1026 | Maximum Difference Between Node and Ancestor | [here](https://github.com/ParshinAD/leetcode/blob/2c169d6bd07bd6f12ce80ee59e38205d856fbfd9/algorithms/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | Medium |
 | 1071 | Greatest Common Divisor of Strings | [here](https://github.com/ParshinAD/leetcode/blob/a56b75aa7ea5ee6bc5ef094968fe0de6a2c60b66/algorithms/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) | Easy | 
