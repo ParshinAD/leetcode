@@ -81,6 +81,7 @@ my solution for some leetcode tasks
 | 980 | Unique Paths III (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/95f96a7144b3ba16dea2b1a445f3542f8396fe0d/algorithms/980.%20Unique%20Paths%20III.md) | Hard |
 | 989 | Add to Array-Form of Integer | [here](https://github.com/ParshinAD/leetcode/blob/1afd04bd1c6b07b1905f530a2ca797e6056d9368/algorithms/989.%20Add%20to%20Array-Form%20of%20Integer.md) | Easy |
 | 997 | Find the Town Judge | [here](https://github.com/ParshinAD/leetcode/blob/de91d65920298009bbaf6babd23891b255536699/algorithms/997.%20Find%20the%20Town%20Judge.md) | Easy |
+| 1011 | Capacity To Ship Packages Within D Days | [here](https://github.com/ParshinAD/leetcode/blob/a4764bd43945c5ae6dc59945a09e3d7d82f807f2/algorithms/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) | Medium | 
 | 1026 | Maximum Difference Between Node and Ancestor | [here](https://github.com/ParshinAD/leetcode/blob/2c169d6bd07bd6f12ce80ee59e38205d856fbfd9/algorithms/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md) | Medium |
 | 1071 | Greatest Common Divisor of Strings | [here](https://github.com/ParshinAD/leetcode/blob/a56b75aa7ea5ee6bc5ef094968fe0de6a2c60b66/algorithms/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) | Easy | 
 | 1137 | N-th Tribonacci Number | [here](https://github.com/ParshinAD/leetcode/blob/4b5fabebf295d4932a7a407ac8764be92ead85ac/algorithms/1137.%20N-th%20Tribonacci%20Number.md) | Easy
