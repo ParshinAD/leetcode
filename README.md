@@ -63,6 +63,7 @@ my solution for some leetcode tasks
 | 460 | LFU Cache | [here](https://github.com/ParshinAD/leetcode/blob/629e0786f1751f01a2a461c8f7e518f22b47edbf/algorithms/460.%20LFU%20Cache.md) | Hard |
 | 472 | Concatenated Words | [here](https://github.com/ParshinAD/leetcode/blob/e7a0e0bfc557476da10df465352e3f6d84a3b65d/algorithms/472.%20Concatenated%20Words.md) | Hard | 
 | 491 | Non-decreasing Subsequences | [here](https://github.com/ParshinAD/leetcode/blob/68e451a993c388902ca2155f077815142873ea98/algorithms/491.%20Non-decreasing%20Subsequences.md) | Medium | 
+| 502 | IPO | [here](https://github.com/ParshinAD/leetcode/blob/0473cecfa971022bdcc8368ab85aacd9584a0ac5/algorithms/502.%20IPO.md) | Hard | 
 | 520 | Detect Capital | [here](https://github.com/ParshinAD/leetcode/blob/acdaa6cabb34ec013d27756835a70dd917f3eb30/algorithms/520.%20Detect%20Capital.md) | Easy |
 | 540 | Single Element in a Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/32c02c39bd037785ef5e2a760620dbec67755353/algorithms/540.%20Single%20Element%20in%20a%20Sorted%20Array.md) | Medium |
 | 567 | Permutation in String | [here](https://github.com/ParshinAD/leetcode/blob/a768851c1c0400db1825d70969124719c6adbd75/algorithms/567.%20Permutation%20in%20String.md) | Medium | 
