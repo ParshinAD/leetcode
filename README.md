@@ -93,6 +93,7 @@ my solution for some leetcode tasks
 | 1523 | Count Odd Numbers in an Interval Range | [here](https://github.com/ParshinAD/leetcode/blob/ae058f97480e15994b6d4fd569739047fbcaa25d/algorithms/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | Easy |
 | 1626 | Best Team With No Conflicts | [here](https://github.com/ParshinAD/leetcode/blob/abba53b3d183b7e6364d89d8fabab4575ebb54e0/algorithms/1626.%20Best%20Team%20With%20No%20Conflicts.md) | Medium |
 | 1657 | Determine if Two Strings Are Close | [here](https://github.com/ParshinAD/leetcode/blob/8c353901ab02988067d8204ab8481170fa70ad3f/algorithms/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md) | Medium |
+| 1675 | Minimize Deviation in Array | [here](https://github.com/ParshinAD/leetcode/blob/cef5acfa277416ad74c54f5f4c4072a247fce880/algorithms/1675.%20Minimize%20Deviation%20in%20Array.md) | Hard |
 | 1704 | Determine if String Halves Are Alike | [here](https://github.com/ParshinAD/leetcode/blob/bdbe038c5b3be25bf3d1df551a9ecfb392346e21/algorithms/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md) | Easy |
 | 1833 | Maximum Ice Cream Bars | [here](https://github.com/ParshinAD/leetcode/blob/c88138d8a22ec2375e95241229d4aeced8614054/algorithms/1833.%20Maximum%20Ice%20Cream%20Bars.md) | Medium |
 | 1834 | Single-Threaded CPU | [here](https://github.com/ParshinAD/leetcode/blob/640aa624b9f49c06881076ac65eb990b0bf877b4/algorithms/1834.%20Single-Threaded%20CPU.md) | Medium | 
