@@ -58,6 +58,7 @@ my solution for some leetcode tasks
 | 352 | Data Stream as Disjoint Intervals | [here](https://github.com/ParshinAD/leetcode/blob/e3c14d494820103eda0b0463bfad6c48189a61d1/algorithms/352.%20Data%20Stream%20as%20Disjoint%20Intervals.md) | Hard | 
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
+| 427 | Construct Quad Tree | [here](https://github.com/ParshinAD/leetcode/blob/764f09fd6d9204d3674da762afa54e3408a2001a/algorithms/427.%20Construct%20Quad%20Tree.md) | Medium | 
 | 438 | Find All Anagrams in a String | [here](https://github.com/ParshinAD/leetcode/blob/57792ddcbadae4292fcd009d0af1ffb685e980cb/algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String.md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | [here](https://github.com/ParshinAD/leetcode/blob/75aefffff4e1947727950addb79be04b66f46635/algorithms/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | Medium | 
