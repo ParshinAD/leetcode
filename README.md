@@ -69,6 +69,7 @@ my solution for some leetcode tasks
 | 520 | Detect Capital | [here](https://github.com/ParshinAD/leetcode/blob/acdaa6cabb34ec013d27756835a70dd917f3eb30/algorithms/520.%20Detect%20Capital.md) | Easy |
 | 540 | Single Element in a Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/32c02c39bd037785ef5e2a760620dbec67755353/algorithms/540.%20Single%20Element%20in%20a%20Sorted%20Array.md) | Medium |
 | 567 | Permutation in String | [here](https://github.com/ParshinAD/leetcode/blob/a768851c1c0400db1825d70969124719c6adbd75/algorithms/567.%20Permutation%20in%20String.md) | Medium | 
+| 652 | Find Duplicate Subtrees | [here](https://github.com/ParshinAD/leetcode/blob/108aa57aadcf0390150693227ce16acc5652a91f/algorithms/652.%20Find%20Duplicate%20Subtrees.md) | Medium |
 | 787 | Cheapest Flights Within K Stops | [here](https://github.com/ParshinAD/leetcode/blob/a232b1afa8f1cf3e891fc96de307bea65f86ef0f/algorithms/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) | Medium |
 | 797 | All Paths From Source to Target (DFS) | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
 | 841 | Keys and Rooms | [here](https://github.com/ParshinAD/leetcode/blob/82ee125f7457624d242cf05062b9bd58254c438b/algorithms/841.%20Keys%20and%20Rooms.md) | Medium |
