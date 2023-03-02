@@ -60,6 +60,7 @@ my solution for some leetcode tasks
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 427 | Construct Quad Tree | [here](https://github.com/ParshinAD/leetcode/blob/764f09fd6d9204d3674da762afa54e3408a2001a/algorithms/427.%20Construct%20Quad%20Tree.md) | Medium | 
 | 438 | Find All Anagrams in a String | [here](https://github.com/ParshinAD/leetcode/blob/57792ddcbadae4292fcd009d0af1ffb685e980cb/algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String.md) | Medium |
+| 443 | String Compression | [here](https://github.com/ParshinAD/leetcode/blob/a751689406da918873c434f0e3855969b40794f7/algorithms/443.%20String%20Compression.md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | [here](https://github.com/ParshinAD/leetcode/blob/75aefffff4e1947727950addb79be04b66f46635/algorithms/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | Medium | 
 | 460 | LFU Cache | [here](https://github.com/ParshinAD/leetcode/blob/629e0786f1751f01a2a461c8f7e518f22b47edbf/algorithms/460.%20LFU%20Cache.md) | Hard |
