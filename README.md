@@ -14,6 +14,7 @@ my solution for some leetcode tasks
 | 20 | Valid Parentheses | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/20.%20Valid%20Parentheses.md) | Easy |
 | 21 | Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | Easy |
 | 26 | Remove Duplicates from Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
+| 28 | Find the Index of the First Occurrence in a String | [here](https://github.com/ParshinAD/leetcode/blob/bbe8547198ffcfa2456974bbb081390b7ed40487/algorithms/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md) | Medium |
 | 35 | Search Insert Position | [here](https://github.com/ParshinAD/leetcode/blob/15dd809b978f00276b15fcaa3da470792792a4cc/algorithms/35.%20Search%20Insert%20Position.md) | Easy |
 | 36 | Valid Sudoku | [here](https://github.com/ParshinAD/leetcode/blob/2c40bf48cdeb9c8521b9fbfff8e3082f149f2567/algorithms/36.%20Valid%20Sudoku.md) | Medium |
 | 45 | Jump Game II | [here](https://github.com/ParshinAD/leetcode/blob/37a0365b11196409c9add384a1e73a1ac0a72f3a/algorithms/45.%20Jump%20Game%20II.md) | Medium |
