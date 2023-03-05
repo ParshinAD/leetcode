@@ -95,6 +95,7 @@ my solution for some leetcode tasks
 | 1143 | Longest Common Subsequence | [here](https://github.com/ParshinAD/leetcode/blob/e693eb01001c45fa19b5b1b8aa27c9dab80ea11d/algorithms/1143.%20Longest%20Common%20Subsequence.md) | Medium |
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
 | 1339 | Maximum Product of Splitted Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/26674716066b948f2bb548980fadd9636bccb955/algorithms/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md) |Medium |
+| 1345 | Jump Game IV | [here](https://github.com/ParshinAD/leetcode/blob/02217c414750f89caff2b9502695f8304da4ec40/algorithms/1345.%20Jump%20Game%20IV.md) | Hard |
 | 1470 | Shuffle the Array | [here](https://github.com/ParshinAD/leetcode/blob/e8bc181f4e2b376bcb6f61b270421063fdf0bedc/algorithms/1470.%20Shuffle%20the%20Array.md) | Easy | 
 | 1523 | Count Odd Numbers in an Interval Range | [here](https://github.com/ParshinAD/leetcode/blob/ae058f97480e15994b6d4fd569739047fbcaa25d/algorithms/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | Easy |
 | 1626 | Best Team With No Conflicts | [here](https://github.com/ParshinAD/leetcode/blob/abba53b3d183b7e6364d89d8fabab4575ebb54e0/algorithms/1626.%20Best%20Team%20With%20No%20Conflicts.md) | Medium |
