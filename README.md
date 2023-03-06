@@ -98,6 +98,7 @@ my solution for some leetcode tasks
 | 1345 | Jump Game IV | [here](https://github.com/ParshinAD/leetcode/blob/02217c414750f89caff2b9502695f8304da4ec40/algorithms/1345.%20Jump%20Game%20IV.md) | Hard |
 | 1470 | Shuffle the Array | [here](https://github.com/ParshinAD/leetcode/blob/e8bc181f4e2b376bcb6f61b270421063fdf0bedc/algorithms/1470.%20Shuffle%20the%20Array.md) | Easy | 
 | 1523 | Count Odd Numbers in an Interval Range | [here](https://github.com/ParshinAD/leetcode/blob/ae058f97480e15994b6d4fd569739047fbcaa25d/algorithms/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | Easy |
+| 1539 | Kth Missing Positive Number | [here](https://github.com/ParshinAD/leetcode/blob/6306f46528df60588409abfd54643fc5a727dffb/algorithms/1539.%20Kth%20Missing%20Positive%20Number.md) | Easy |
 | 1626 | Best Team With No Conflicts | [here](https://github.com/ParshinAD/leetcode/blob/abba53b3d183b7e6364d89d8fabab4575ebb54e0/algorithms/1626.%20Best%20Team%20With%20No%20Conflicts.md) | Medium |
 | 1657 | Determine if Two Strings Are Close | [here](https://github.com/ParshinAD/leetcode/blob/8c353901ab02988067d8204ab8481170fa70ad3f/algorithms/1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md) | Medium |
 | 1675 | Minimize Deviation in Array | [here](https://github.com/ParshinAD/leetcode/blob/cef5acfa277416ad74c54f5f4c4072a247fce880/algorithms/1675.%20Minimize%20Deviation%20in%20Array.md) | Hard |
