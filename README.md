@@ -76,6 +76,7 @@ my solution for some leetcode tasks
 | 797 | All Paths From Source to Target (DFS) | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
 | 841 | Keys and Rooms | [here](https://github.com/ParshinAD/leetcode/blob/82ee125f7457624d242cf05062b9bd58254c438b/algorithms/841.%20Keys%20and%20Rooms.md) | Medium |
 | 872 | Leaf-Similar Trees | [here](https://github.com/ParshinAD/leetcode/blob/e655f0c73fef54d8c0ef2bbe087be0c1a1e3f0c1/algorithms/872.%20Leaf-Similar%20Trees.md) | Easy |
+| 875 | Koko Eating Bananas | [here](https://github.com/ParshinAD/leetcode/blob/5d59be416f1355459357ba63c91a1bef74877f4b/algorithms/875.%20Koko%20Eating%20Bananas.md) | Medium | 
 | 876 | Middle of the Linked List | [here](https://github.com/ParshinAD/leetcode/blob/9b373b68f407c24095087cc6ca278f7daa17a311/algorithms/876.%20Middle%20of%20the%20Linked%20List.md) | Easy |
 | 912 | Sort an Array | [here](https://github.com/ParshinAD/leetcode/blob/d23c86a3ee484be55b70017a09e1fc45a91372cf/algorithms/912.%20Sort%20an%20Array.md) | Medium |
 | 918 | Maximum Sum Circular Subarray | [here](https://github.com/ParshinAD/leetcode/blob/341fc099bd70d03a4ab9e0b5d1c6470f8d4dea04/algorithms/918.%20Maximum%20Sum%20Circular%20Subarray.md) | Medium | 
