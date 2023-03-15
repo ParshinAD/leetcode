@@ -31,6 +31,7 @@ my solution for some leetcode tasks
 | 93 | Restore IP Addresses | [here](https://github.com/ParshinAD/leetcode/blob/62cf70d39fcfb00466a54c73a330fa37a65c3874/algorithms/93.%20Restore%20IP%20Addresses.md) | Medium |
 | 94 | Binary Tree Inorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8f55dede16551206d7ba178bf582b943b343891f/algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy |
 | 100 | Same Tree | [here](https://github.com/ParshinAD/leetcode/blob/ae5837ee49b5b54333ced2409f33aefd9342593d/algorithms/100.%20Same%20Tree.md) | Easy |
+| 101 | Symmetric Tree | [here](https://github.com/ParshinAD/leetcode/blob/dc6efaee902dfba44c335b4c15b3cf6d630de6d3/algorithms/101.%20Symmetric%20Tree.md) | Easy |
 | 103 | Binary Tree Zigzag Level Order Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8da8ec7400fe62cdabc2fb830b29f72dba6f81c5/algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | Medium | 
 | 104 | Maximum Depth of Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/4250bd94af6a2ca5f8e267b647771634ac690281/algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | Easy | 
 | 118 | Pascal's Triangle | [here](https://github.com/ParshinAD/leetcode/blob/5d257cb1f9120751b5a5ac2a7094994ec05654d0/algorithms/118.%20Pascal's%20Triangle.md) | Easy |
