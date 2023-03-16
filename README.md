@@ -34,6 +34,7 @@ my solution for some leetcode tasks
 | 101 | Symmetric Tree | [here](https://github.com/ParshinAD/leetcode/blob/dc6efaee902dfba44c335b4c15b3cf6d630de6d3/algorithms/101.%20Symmetric%20Tree.md) | Easy |
 | 103 | Binary Tree Zigzag Level Order Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8da8ec7400fe62cdabc2fb830b29f72dba6f81c5/algorithms/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) | Medium | 
 | 104 | Maximum Depth of Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/4250bd94af6a2ca5f8e267b647771634ac690281/algorithms/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) | Easy | 
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/6d80a4a7356d7f98f2030db95857d389b4b36c92/algorithms/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) | Medium |
 | 118 | Pascal's Triangle | [here](https://github.com/ParshinAD/leetcode/blob/5d257cb1f9120751b5a5ac2a7094994ec05654d0/algorithms/118.%20Pascal's%20Triangle.md) | Easy |
 | 121 | Best Time to Buy and Sell Stock | [here](https://github.com/ParshinAD/leetcode/blob/fc5be3fadb413edde499f1197a7b1d5611912400/algorithms/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | Easy |
 | 124 | Binary Tree Maximum Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/961a02456c8ad6e0be18f957e026e5c015377522/algorithms/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md) | Hard |
