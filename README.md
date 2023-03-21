@@ -121,6 +121,7 @@ my solution for some leetcode tasks
 | 2225 | Find Players With Zero or One Losses | [here](https://github.com/ParshinAD/leetcode/blob/7cd974f0228cb3c22e402847d234849400018d80/algorithms/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md) | Medium |
 | 2244 | Minimum Rounds to Complete All Tasks | [here](https://github.com/ParshinAD/leetcode/blob/57a2d73f805203d89b0bbf1e1d923ecb011f631f/algorithms/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.md) | Medium |
 | 2256 | Minimum Average Difference | [here](https://github.com/ParshinAD/leetcode/blob/a80e54c461deeca1308584d2f92b1d8133ca2ecd/algorithms/2256.%20Minimum%20Average%20Difference.md) | Medium |
+| 2348 | Number of Zero-Filled Subarrays | [here](https://github.com/ParshinAD/leetcode/blob/9c29c4e628d295b8b8d0e62b1011d6c1eadb75fc/algorithms/2348.%20Number%20of%20Zero-Filled%20Subarrays.md) | Medium |
 | 2359 | Find Closest Node to Given Two Nodes | [here](https://github.com/ParshinAD/leetcode/blob/8dffefe733fbf0dce34269d4e266940e8a839f03/algorithms/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.md) | Medium |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [here](https://github.com/ParshinAD/leetcode/blob/a5e1807152845b0baea667d452b233fc094e1ee9/algorithms/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.md) | Medium | 
 | 2389 | Longest Subsequence With Limited Sum | [here](https://github.com/ParshinAD/leetcode/blob/4ecfc46a959ff7c9725a7a7bc3b7fcf8a57e5cbc/algorithms/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.md) | Easy |
