@@ -125,5 +125,6 @@ my solution for some leetcode tasks
 | 2359 | Find Closest Node to Given Two Nodes | [here](https://github.com/ParshinAD/leetcode/blob/8dffefe733fbf0dce34269d4e266940e8a839f03/algorithms/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.md) | Medium |
 | 2279 | Maximum Bags With Full Capacity of Rocks | [here](https://github.com/ParshinAD/leetcode/blob/a5e1807152845b0baea667d452b233fc094e1ee9/algorithms/2279.%20Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.md) | Medium | 
 | 2389 | Longest Subsequence With Limited Sum | [here](https://github.com/ParshinAD/leetcode/blob/4ecfc46a959ff7c9725a7a7bc3b7fcf8a57e5cbc/algorithms/2389.%20Longest%20Subsequence%20With%20Limited%20Sum.md) | Easy |
+| 2390 | Removing Stars From a String | [here](https://github.com/ParshinAD/leetcode/blob/c6486965a59f9653739ec858add2325fe17d3bc4/algorithms/2390.%20Removing%20Stars%20From%20a%20String.md) | Medium |
 | 2444 | Count Subarrays With Fixed Bounds | [here](https://github.com/ParshinAD/leetcode/blob/c64633027a541baf936cb9d4ac2b65ae62998d1a/algorithms/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.md) | Hard |
 
