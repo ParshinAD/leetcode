@@ -13,6 +13,7 @@ my solution for some leetcode tasks
 | 15 | 3Sum | [here](https://github.com/ParshinAD/leetcode/blob/444d0647e146a9ca9c638d71f17fd226c149a3fb/algorithms/15.%203Sum.md) | Medium |
 | 20 | Valid Parentheses | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/20.%20Valid%20Parentheses.md) | Easy |
 | 21 | Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | Easy |
+| 23 | Merge k Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/15a5c2c6ec2dae8a11d066d427e487ad7487fd7e/algorithms/23.%20Merge%20k%20Sorted%20Lists.md) | Hard |
 | 26 | Remove Duplicates from Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
 | 28 | Find the Index of the First Occurrence in a String | [here](https://github.com/ParshinAD/leetcode/blob/bbe8547198ffcfa2456974bbb081390b7ed40487/algorithms/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md) | Medium |
 | 35 | Search Insert Position | [here](https://github.com/ParshinAD/leetcode/blob/15dd809b978f00276b15fcaa3da470792792a4cc/algorithms/35.%20Search%20Insert%20Position.md) | Easy |
