@@ -92,6 +92,7 @@ my solution for some leetcode tasks
 | 931 | Minimum Falling Path Sum | [here](https://github.com/ParshinAD/leetcode/blob/342f4f700b6c335a35c595a5fb9c48e0c9067a38/algorithms/931.%20Minimum%20Falling%20Path%20Sum.md) | Medium | 
 | 938 | Range Sum of BST | [here](https://github.com/ParshinAD/leetcode/blob/baa196901bc49accb94c6ddb58d6b60e70896247/algorithms/938.%20Range%20Sum%20of%20BST.md) | Easy |
 | 944 | Delete Columns to Make Sorted | [here](https://github.com/ParshinAD/leetcode/blob/94bebdfa952f6d128e678bc5d4e4fd86a71d82b3/algorithms/944.%20Delete%20Columns%20to%20Make%20Sorted.md) | Easy |
+| 946 | Validate Stack Sequences | [here](https://github.com/ParshinAD/leetcode/blob/5cfa4b8c8e20ee586a41ddf21533f2d9aceaf0fc/algorithms/946.%20Validate%20Stack%20Sequences.md) | Medium |
 | 953 | Verifying an Alien Dictionary | [here](https://github.com/ParshinAD/leetcode/blob/9d75e2230588e54db7c1a2ea910f9fc992166668/algorithms/953.%20Verifying%20an%20Alien%20Dictionary.md) | Easy | 
 | 958 |  Check Completeness of a Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/695d673771e63049a98ff435027f457387c8cdfc/algorithms/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md) | Medium |
 | 974 | Subarray Sums Divisible by K | [here](https://github.com/ParshinAD/leetcode/blob/e6f6577faa7bf6f1e9fb26dbe6f86b2bfb1e3825/algorithms/974.%20Subarray%20Sums%20Divisible%20by%20K.md) | Medium |
