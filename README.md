@@ -21,6 +21,7 @@ my solution for some leetcode tasks
 | 45 | Jump Game II | [here](https://github.com/ParshinAD/leetcode/blob/37a0365b11196409c9add384a1e73a1ac0a72f3a/algorithms/45.%20Jump%20Game%20II.md) | Medium |
 | 48 | Rotate Image| [here](https://github.com/ParshinAD/leetcode/blob/659207c1b12b001a4510a3d8fc38e4f874af99f4/algorithms/48.%20Rotate%20Image.md) | Medium |
 | 53 | Maximum Subarray(Kadane’s Algorithm) | [here](https://github.com/ParshinAD/leetcode/blob/20529f11b8779c88f50cfc948d9ca0a1b377fd1c/algorithms/53.%20Maximum%20Subarray.md) | Medium | 
+| 54 | Spiral Matrix | [here](https://github.com/ParshinAD/leetcode/blob/338a48860583e4168c4ef808a4d5ea12291d7b85/algorithms/54.%20Spiral%20Matrix.md) | Medium |
 | 55 | Jump Game | [here](https://github.com/ParshinAD/leetcode/blob/f01c634295c5f7247eedb0801c5c03156ca2fae8/algorithms/55.%20Jump%20Game.md) | Medium |
 | 56 | Merge Intervals | [here](https://github.com/ParshinAD/leetcode/blob/d28852352bba48c94dc1c77c3b8cc3bdf2af81fa/algorithms/56.%20Merge%20Intervals.md) | Medium |
 | 57 | Insert Interval | [here](https://github.com/ParshinAD/leetcode/blob/15a992f1db3b372fc32e5325272ba2ed1015f3a5/algorithms/57.%20Insert%20Interval.md) | Medium | 
