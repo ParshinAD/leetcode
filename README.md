@@ -120,6 +120,7 @@ my solution for some leetcode tasks
 | 1834 | Single-Threaded CPU | [here](https://github.com/ParshinAD/leetcode/blob/640aa624b9f49c06881076ac65eb990b0bf877b4/algorithms/1834.%20Single-Threaded%20CPU.md) | Medium | 
 | 1962 | Remove Stones to Minimize the Total (heapq) | [here](https://github.com/ParshinAD/leetcode/blob/d96495d60b690d85593f97e3795f0d878920e8e8/algorithms/1962.%20Remove%20Stones%20to%20Minimize%20the%20Total.md) | Medium |
 | 1971 | Find if Path Exists in Graph | [here](https://github.com/ParshinAD/leetcode/blob/da1a569c22a3aff36740a0d4e18d988646c03202/algorithms/1971.%20Find%20if%20Path%20Exists%20in%20Graph.md) | Easy |
+| 2101 | Detonate the Maximum Bombs | [here](https://github.com/ParshinAD/leetcode/blob/9325d79f7c953502d8b5d3b894f46c66cd0d4c79/algorithms/2101.%20Detonate%20the%20Maximum%20Bombs.md) | Medium | 
 | 2187 | Minimum Time to Complete Trips (BS) | [here](https://github.com/ParshinAD/leetcode/blob/65232e194937fb37f207370de0958b831ce09c85/algorithms/2187.%20Minimum%20Time%20to%20Complete%20Trips.md) | Medium | 
 | 2225 | Find Players With Zero or One Losses | [here](https://github.com/ParshinAD/leetcode/blob/7cd974f0228cb3c22e402847d234849400018d80/algorithms/2225.%20Find%20Players%20With%20Zero%20or%20One%20Losses.md) | Medium |
 | 2244 | Minimum Rounds to Complete All Tasks | [here](https://github.com/ParshinAD/leetcode/blob/57a2d73f805203d89b0bbf1e1d923ecb011f631f/algorithms/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.md) | Medium |
