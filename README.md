@@ -108,6 +108,7 @@ my solution for some leetcode tasks
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
 | 1339 | Maximum Product of Splitted Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/26674716066b948f2bb548980fadd9636bccb955/algorithms/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md) |Medium |
 | 1345 | Jump Game IV | [here](https://github.com/ParshinAD/leetcode/blob/02217c414750f89caff2b9502695f8304da4ec40/algorithms/1345.%20Jump%20Game%20IV.md) | Hard |
+| 1376 | Time Needed to Inform All Employees | [here](https://github.com/ParshinAD/leetcode/blob/5e14c62525f8b7e5f41209c089ae0b163d71b1fe/algorithms/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.md) | Medium | 
 | 1470 | Shuffle the Array | [here](https://github.com/ParshinAD/leetcode/blob/e8bc181f4e2b376bcb6f61b270421063fdf0bedc/algorithms/1470.%20Shuffle%20the%20Array.md) | Easy | 
 | 1472 | Design Browser History | [here](https://github.com/ParshinAD/leetcode/blob/27dadfe72aa9e32785b65f8207c5b28eb2af9f95/algorithms/1472.%20Design%20Browser%20History.md) | Medium |
 | 1523 | Count Odd Numbers in an Interval Range | [here](https://github.com/ParshinAD/leetcode/blob/ae058f97480e15994b6d4fd569739047fbcaa25d/algorithms/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | Easy |
