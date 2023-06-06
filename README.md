@@ -111,6 +111,7 @@ my solution for some leetcode tasks
 | 1376 | Time Needed to Inform All Employees | [here](https://github.com/ParshinAD/leetcode/blob/5e14c62525f8b7e5f41209c089ae0b163d71b1fe/algorithms/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.md) | Medium | 
 | 1470 | Shuffle the Array | [here](https://github.com/ParshinAD/leetcode/blob/e8bc181f4e2b376bcb6f61b270421063fdf0bedc/algorithms/1470.%20Shuffle%20the%20Array.md) | Easy | 
 | 1472 | Design Browser History | [here](https://github.com/ParshinAD/leetcode/blob/27dadfe72aa9e32785b65f8207c5b28eb2af9f95/algorithms/1472.%20Design%20Browser%20History.md) | Medium |
+| 1502 | Can Make Arithmetic Progression From Sequence | [here](https://github.com/ParshinAD/leetcode/blob/32ca09dbb34868cd76de3099367fa7199fc9b864/algorithms/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md) | Easy |
 | 1523 | Count Odd Numbers in an Interval Range | [here](https://github.com/ParshinAD/leetcode/blob/ae058f97480e15994b6d4fd569739047fbcaa25d/algorithms/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md) | Easy |
 | 1539 | Kth Missing Positive Number | [here](https://github.com/ParshinAD/leetcode/blob/6306f46528df60588409abfd54643fc5a727dffb/algorithms/1539.%20Kth%20Missing%20Positive%20Number.md) | Easy |
 | 1626 | Best Team With No Conflicts | [here](https://github.com/ParshinAD/leetcode/blob/abba53b3d183b7e6364d89d8fabab4575ebb54e0/algorithms/1626.%20Best%20Team%20With%20No%20Conflicts.md) | Medium |
