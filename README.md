@@ -30,6 +30,7 @@ my solution for some leetcode tasks
 | 69 | Sqrt(x) | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/69.%20Sqrt(x).%20md) | Easy |
 | 70 | Climbing Stairs | [here](https://github.com/ParshinAD/leetcode/blob/ae2517e1675eab6e1f048bcd0c42fbda3ef691d1/algorithms/70.%20Climbing%20Stairs.md) | Easy |
 | 72 | Edit Distance | [here](https://github.com/ParshinAD/leetcode/blob/801f42c721d78e34501f96fdd1cc8017c0c79a2b/algorithms/72.%20Edit%20Distance.md) | Hard | 
+| 77 | Combinations | [here](https://github.com/ParshinAD/leetcode/blob/ee8b2f0242ca3e454ec90ff6def4f576838065a0/algorithms/77.%20Combinations.md) | Medium |
 | 93 | Restore IP Addresses | [here](https://github.com/ParshinAD/leetcode/blob/62cf70d39fcfb00466a54c73a330fa37a65c3874/algorithms/93.%20Restore%20IP%20Addresses.md) | Medium |
 | 94 | Binary Tree Inorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8f55dede16551206d7ba178bf582b943b343891f/algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy |
 | 100 | Same Tree | [here](https://github.com/ParshinAD/leetcode/blob/ae5837ee49b5b54333ced2409f33aefd9342593d/algorithms/100.%20Same%20Tree.md) | Easy |
