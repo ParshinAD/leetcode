@@ -19,6 +19,7 @@ my solution for some leetcode tasks
 | 35 | Search Insert Position | [here](https://github.com/ParshinAD/leetcode/blob/15dd809b978f00276b15fcaa3da470792792a4cc/algorithms/35.%20Search%20Insert%20Position.md) | Easy |
 | 36 | Valid Sudoku | [here](https://github.com/ParshinAD/leetcode/blob/2c40bf48cdeb9c8521b9fbfff8e3082f149f2567/algorithms/36.%20Valid%20Sudoku.md) | Medium |
 | 45 | Jump Game II | [here](https://github.com/ParshinAD/leetcode/blob/37a0365b11196409c9add384a1e73a1ac0a72f3a/algorithms/45.%20Jump%20Game%20II.md) | Medium |
+| 46 | Permutations | [here](https://github.com/ParshinAD/leetcode/blob/f2539981ed2ed2e75585253cad034206dac4becd/algorithms/46.%20Permutations.md) | Medium | 
 | 48 | Rotate Image| [here](https://github.com/ParshinAD/leetcode/blob/659207c1b12b001a4510a3d8fc38e4f874af99f4/algorithms/48.%20Rotate%20Image.md) | Medium |
 | 53 | Maximum Subarray(Kadane’s Algorithm) | [here](https://github.com/ParshinAD/leetcode/blob/20529f11b8779c88f50cfc948d9ca0a1b377fd1c/algorithms/53.%20Maximum%20Subarray.md) | Medium | 
 | 54 | Spiral Matrix | [here](https://github.com/ParshinAD/leetcode/blob/338a48860583e4168c4ef808a4d5ea12291d7b85/algorithms/54.%20Spiral%20Matrix.md) | Medium |
@@ -30,7 +31,7 @@ my solution for some leetcode tasks
 | 69 | Sqrt(x) | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/69.%20Sqrt(x).%20md) | Easy |
 | 70 | Climbing Stairs | [here](https://github.com/ParshinAD/leetcode/blob/ae2517e1675eab6e1f048bcd0c42fbda3ef691d1/algorithms/70.%20Climbing%20Stairs.md) | Easy |
 | 72 | Edit Distance | [here](https://github.com/ParshinAD/leetcode/blob/801f42c721d78e34501f96fdd1cc8017c0c79a2b/algorithms/72.%20Edit%20Distance.md) | Hard | 
-| 77 | Combinations | [here](https://github.com/ParshinAD/leetcode/blob/ee8b2f0242ca3e454ec90ff6def4f576838065a0/algorithms/77.%20Combinations.md) | Medium |
+| 77 | Combinations | [here](https://github.com/ParshinAD/leetcode/blob/f2539981ed2ed2e75585253cad034206dac4becd/algorithms/77.%20Combinations.md) | Medium |
 | 93 | Restore IP Addresses | [here](https://github.com/ParshinAD/leetcode/blob/62cf70d39fcfb00466a54c73a330fa37a65c3874/algorithms/93.%20Restore%20IP%20Addresses.md) | Medium |
 | 94 | Binary Tree Inorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8f55dede16551206d7ba178bf582b943b343891f/algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy |
 | 100 | Same Tree | [here](https://github.com/ParshinAD/leetcode/blob/ae5837ee49b5b54333ced2409f33aefd9342593d/algorithms/100.%20Same%20Tree.md) | Easy |
