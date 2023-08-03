@@ -11,6 +11,7 @@ my solution for some leetcode tasks
 | 13 | Roman to Integer | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/13.%20Roman%20to%20Integer.md) | Easy |
 | 14 | Longest Common Prefix | [here](https://github.com/ParshinAD/leetcode/blob/a94aa556e7a44d1b8b65e713c2b66d6e8830dcdf/algorithms/14%20Longest%20Common%20Prefix.md) | Easy |
 | 15 | 3Sum | [here](https://github.com/ParshinAD/leetcode/blob/444d0647e146a9ca9c638d71f17fd226c149a3fb/algorithms/15.%203Sum.md) | Medium |
+| 17 | Letter Combinations of a Phone Number | [here](https://github.com/ParshinAD/leetcode/blob/534b281f4ff87ad4e1c1164de147036721edfe0c/algorithms/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md) | Medium |
 | 20 | Valid Parentheses | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/20.%20Valid%20Parentheses.md) | Easy |
 | 21 | Merge Two Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/aab880ad2247274b32a3773dca9d40fe32b1aec5/algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) | Easy |
 | 23 | Merge k Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/15a5c2c6ec2dae8a11d066d427e487ad7487fd7e/algorithms/23.%20Merge%20k%20Sorted%20Lists.md) | Hard |
