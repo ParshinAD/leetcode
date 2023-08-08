@@ -17,6 +17,7 @@ my solution for some leetcode tasks
 | 23 | Merge k Sorted Lists | [here](https://github.com/ParshinAD/leetcode/blob/15a5c2c6ec2dae8a11d066d427e487ad7487fd7e/algorithms/23.%20Merge%20k%20Sorted%20Lists.md) | Hard |
 | 26 | Remove Duplicates from Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/ad3aaea3ff8aad9cec3661cd08344477ac2f39de/algorithms/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) | Easy |
 | 28 | Find the Index of the First Occurrence in a String | [here](https://github.com/ParshinAD/leetcode/blob/bbe8547198ffcfa2456974bbb081390b7ed40487/algorithms/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md) | Medium |
+| 33 | Search in Rotated Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/01cee0312e7f18c0e10f687ef60a6e39fd7e8faf/algorithms/33.%20Search%20in%20Rotated%20Sorted%20Array.md) | Medium | 
 | 35 | Search Insert Position | [here](https://github.com/ParshinAD/leetcode/blob/15dd809b978f00276b15fcaa3da470792792a4cc/algorithms/35.%20Search%20Insert%20Position.md) | Easy |
 | 36 | Valid Sudoku | [here](https://github.com/ParshinAD/leetcode/blob/2c40bf48cdeb9c8521b9fbfff8e3082f149f2567/algorithms/36.%20Valid%20Sudoku.md) | Medium |
 | 45 | Jump Game II | [here](https://github.com/ParshinAD/leetcode/blob/37a0365b11196409c9add384a1e73a1ac0a72f3a/algorithms/45.%20Jump%20Game%20II.md) | Medium |
