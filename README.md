@@ -35,6 +35,7 @@ my solution for some leetcode tasks
 | 72 | Edit Distance | [here](https://github.com/ParshinAD/leetcode/blob/801f42c721d78e34501f96fdd1cc8017c0c79a2b/algorithms/72.%20Edit%20Distance.md) | Hard | 
 | 74 | Search a 2D Matrix | [here](https://github.com/ParshinAD/leetcode/blob/ab4f9b06cce0775ce8ea26eaddff85bc5f9be829/algorithms/74.%20Search%20a%202D%20Matrix.md) | Medium | 
 | 77 | Combinations | [here](https://github.com/ParshinAD/leetcode/blob/f2539981ed2ed2e75585253cad034206dac4becd/algorithms/77.%20Combinations.md) | Medium |
+| 81 | Search in Rotated Sorted Array II | [here](https://github.com/ParshinAD/leetcode/blob/104fa69850db25c82856254eab7d0321a4d9a2e2/algorithms/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md) | Medium | 
 | 93 | Restore IP Addresses | [here](https://github.com/ParshinAD/leetcode/blob/62cf70d39fcfb00466a54c73a330fa37a65c3874/algorithms/93.%20Restore%20IP%20Addresses.md) | Medium |
 | 94 | Binary Tree Inorder Traversal | [here](https://github.com/ParshinAD/leetcode/blob/8f55dede16551206d7ba178bf582b943b343891f/algorithms/94.%20Binary%20Tree%20Inorder%20Traversal.md) | Easy |
 | 100 | Same Tree | [here](https://github.com/ParshinAD/leetcode/blob/ae5837ee49b5b54333ced2409f33aefd9342593d/algorithms/100.%20Same%20Tree.md) | Easy |
