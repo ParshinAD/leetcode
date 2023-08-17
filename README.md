@@ -86,6 +86,7 @@ my solution for some leetcode tasks
 | 502 | IPO | [here](https://github.com/ParshinAD/leetcode/blob/0473cecfa971022bdcc8368ab85aacd9584a0ac5/algorithms/502.%20IPO.md) | Hard | 
 | 520 | Detect Capital | [here](https://github.com/ParshinAD/leetcode/blob/acdaa6cabb34ec013d27756835a70dd917f3eb30/algorithms/520.%20Detect%20Capital.md) | Easy |
 | 540 | Single Element in a Sorted Array | [here](https://github.com/ParshinAD/leetcode/blob/32c02c39bd037785ef5e2a760620dbec67755353/algorithms/540.%20Single%20Element%20in%20a%20Sorted%20Array.md) | Medium |
+| 542 | 01 Matrix | [here](https://github.com/ParshinAD/leetcode/blob/9b0e31efa5eb508b9b570c46a106f13015ea13a6/algorithms/542.%2001%20Matrix.md) | Medium |
 | 547 | Number of Provinces | [here](https://github.com/ParshinAD/leetcode/blob/1d52b9ae153cec1e14ac8bcf775b7082e21058d9/algorithms/547.%20Number%20of%20Provinces.md) | Medium |
 | 567 | Permutation in String | [here](https://github.com/ParshinAD/leetcode/blob/a768851c1c0400db1825d70969124719c6adbd75/algorithms/567.%20Permutation%20in%20String.md) | Medium | 
 | 605 | Can Place Flowers | [here](https://github.com/ParshinAD/leetcode/blob/44e14554ff2dd3626da56fd84aa162e33234b697/algorithms/605.%20Can%20Place%20Flowers.md) | Easy |
