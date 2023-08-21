@@ -80,6 +80,7 @@ my solution for some leetcode tasks
 | 443 | String Compression | [here](https://github.com/ParshinAD/leetcode/blob/a751689406da918873c434f0e3855969b40794f7/algorithms/443.%20String%20Compression.md) | Medium |
 | 451 | Sort Characters By Frequency | [here](https://github.com/ParshinAD/leetcode/blob/2bef5f767b497669fb4e2ab77389d326ca8f71ec/algorithms/451.%20Sort%20Characters%20By%20Frequency.md) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | [here](https://github.com/ParshinAD/leetcode/blob/75aefffff4e1947727950addb79be04b66f46635/algorithms/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md) | Medium | 
+| 459 | Repeated Substring Pattern | [here](https://github.com/ParshinAD/leetcode/blob/6aceda7e723cbba4b9d955b39a6ba96a921c9aba/algorithms/459.%20Repeated%20Substring%20Pattern.md) | Easy |
 | 460 | LFU Cache | [here](https://github.com/ParshinAD/leetcode/blob/629e0786f1751f01a2a461c8f7e518f22b47edbf/algorithms/460.%20LFU%20Cache.md) | Hard |
 | 472 | Concatenated Words | [here](https://github.com/ParshinAD/leetcode/blob/e7a0e0bfc557476da10df465352e3f6d84a3b65d/algorithms/472.%20Concatenated%20Words.md) | Hard | 
 | 491 | Non-decreasing Subsequences | [here](https://github.com/ParshinAD/leetcode/blob/68e451a993c388902ca2155f077815142873ea98/algorithms/491.%20Non-decreasing%20Subsequences.md) | Medium | 
