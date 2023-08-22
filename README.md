@@ -55,6 +55,7 @@ my solution for some leetcode tasks
 | 144 | Binary Tree Preorder Traversal (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/26c7c57659c97d0bb4b90bbb510c27a537419c57/algorithms/144.%20Binary%20Tree%20Preorder%20Traversal.md) | Easy |
 | 149 | Max Points on a Line | [here](https://github.com/ParshinAD/leetcode/blob/08f0f580fdb9b45ebd147b1f57709e79f52bde30/algorithms/149.%20Max%20Points%20on%20a%20Line.md) | Hard |
 | 150 | Evaluate Reverse Polish Notation | [here](https://github.com/ParshinAD/leetcode/blob/9ebb7a3d5fbca6eebf833248aa21a654cfa3f9fd/algorithms/150.%20Evaluate%20Reverse%20Polish%20Notation.md) | Medium | 
+| 168 | Excel Sheet Column Title | [here](https://github.com/ParshinAD/leetcode/blob/c55ab1a8b7074f14296421fb37e0075f990c8417/algorithms/168.%20Excel%20Sheet%20Column%20Title.md) | Easy |
 | 175 | Combine Two Tables | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/175.%20Combine%20Two%20Tables.md) | Easy |
 | 176 | Second Highest Salary | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/176.%20Second%20Highest%20Salary.md) | Medium |
 | 185 | Department Top Three Salaries | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/Database/185.%20Department%20Top%20Three%20Salaries.md)| Hard |
