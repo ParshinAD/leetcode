@@ -92,6 +92,7 @@ my solution for some leetcode tasks
 | 547 | Number of Provinces | [here](https://github.com/ParshinAD/leetcode/blob/1d52b9ae153cec1e14ac8bcf775b7082e21058d9/algorithms/547.%20Number%20of%20Provinces.md) | Medium |
 | 567 | Permutation in String | [here](https://github.com/ParshinAD/leetcode/blob/a768851c1c0400db1825d70969124719c6adbd75/algorithms/567.%20Permutation%20in%20String.md) | Medium | 
 | 605 | Can Place Flowers | [here](https://github.com/ParshinAD/leetcode/blob/44e14554ff2dd3626da56fd84aa162e33234b697/algorithms/605.%20Can%20Place%20Flowers.md) | Easy |
+| 646 | Maximum Length of Pair Chain | [here](https://github.com/ParshinAD/leetcode/blob/ac93c2f960ed8be99150b653742e46732a4d564f/algorithms/646.%20Maximum%20Length%20of%20Pair%20Chain.md) | Medium |
 | 652 | Find Duplicate Subtrees | [here](https://github.com/ParshinAD/leetcode/blob/108aa57aadcf0390150693227ce16acc5652a91f/algorithms/652.%20Find%20Duplicate%20Subtrees.md) | Medium |
 | 712 | Minimum ASCII Delete Sum for Two Strings | [here](https://github.com/ParshinAD/leetcode/blob/b5a5160a732c95cefeb85d1a91ebd29a12212074/algorithms/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.md) | Medium | 
 | 744 | Find Smallest Letter Greater Than Target | [here](https://github.com/ParshinAD/leetcode/blob/8e1c32054d95a876da96eb6e0cd78fb4e97dee8f/algorithms/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md) | Easy |
