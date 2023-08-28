@@ -64,6 +64,7 @@ my solution for some leetcode tasks
 | 217 | Contains Duplicate | [here](https://github.com/ParshinAD/leetcode/blob/e2aab43a314f15b512042b3d106daf7988a10923/algorithms/217.%20Contains%20Duplicate.md) | Easy | 
 | 222 | Count Complete Tree Nodes | [here](https://github.com/ParshinAD/leetcode/blob/e2aab43a314f15b512042b3d106daf7988a10923/algorithms/222.%20Count%20Complete%20Tree%20Nodes.md) | Medium |
 | 223 | Rectangle Area | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/223.%20Rectangle%20Area.md)| Medium |
+| 225 | Implement Stack using Queues | [here](https://github.com/ParshinAD/leetcode/blob/2a1580cd5629389ac6ad819bf76f47ea0540985d/algorithms/225.%20Implement%20Stack%20using%20Queues.md) | Easy | 
 | 226 | Invert Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/93ecef5b291853230b66ed10a6a67b1e85c905bb/algorithms/226.%20Invert%20Binary%20Tree.md) | Easy |
 | 232 | Implement Queue using Stacks | [here](https://github.com/ParshinAD/leetcode/blob/60c39e20c139bbaae77805d2aad3483a725ebdb6/algorithms/232.%20Implement%20Queue%20using%20Stacks.md) | Easy |
 | 237 | Delete Node in a Linked List | [here](https://github.com/ParshinAD/leetcode/blob/0e46becd018339d956d8f5df2ac0fbfa32356e09/algorithms/237.%20Delete%20Node%20in%20a%20Linked%20List.md) | Medium |
