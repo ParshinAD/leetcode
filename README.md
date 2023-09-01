@@ -73,6 +73,7 @@ my solution for some leetcode tasks
 | 290 | Word Pattern | [here](https://github.com/ParshinAD/leetcode/blob/702341cecc8508d0bdebc2199b22e7b176b2585a/algorithms/290.%20Word%20Pattern.md) | Easy |
 | 309 | Best Time to Buy and Sell Stock with Cooldown | [here](https://github.com/ParshinAD/leetcode/blob/0f9b75aa01532fcdc4f5b029aec8411a2129c6f9/algorithms/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md) | Medium | 
 | 328 | Odd Even Linked List | [here](https://github.com/ParshinAD/leetcode/blob/5b42e48124c1e9c60efc0e3c54e2e7cdf13857b7/algorithms/328.%20Odd%20Even%20Linked%20List.md) | Medium |
+| 338 | Counting Bits | [here](https://github.com/ParshinAD/leetcode/blob/540735f025b1ff0b1f686daadb3c8e58e1275900/algorithms/338.%20Counting%20Bits.md) | Easy |
 | 352 | Data Stream as Disjoint Intervals | [here](https://github.com/ParshinAD/leetcode/blob/e3c14d494820103eda0b0463bfad6c48189a61d1/algorithms/352.%20Data%20Stream%20as%20Disjoint%20Intervals.md) | Hard | 
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
