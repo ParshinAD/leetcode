@@ -51,7 +51,7 @@ my solution for some leetcode tasks
 | 131 | Palindrome Partitioning | [here](https://github.com/ParshinAD/leetcode/blob/d21e3be5b56cf7f913e0db02696eb0a1b5c4230f/algorithms/131.%20Palindrome%20Partitioning.md) | Medium |
 | 134 | Gas Station | [here](https://github.com/ParshinAD/leetcode/blob/c4ee6a731cc2c8c75880a16284b576beefd4d43e/algorithms/134.%20Gas%20Station.md) | Medium |
 | 139 | Word Break | [here](https://github.com/ParshinAD/leetcode/blob/f66fc696c56bc8888df795e110d1d488bbb411fa/algorithms/139.%20Word%20Break.md) | Medium |
-| 141 | Linked List Cycle | [here](https://github.com/ParshinAD/leetcode/blob/ec2e0879521a5e0d27d6376c68d291aacc0eca3d/algorithms/141.%20Linked%20List%20Cycle.md) | Easy |
+| 141 | Linked List Cycle | [here](https://github.com/ParshinAD/leetcode/blob/7938e3e296d24b41702db68713347f48b52360ae/algorithms/141.%20Linked%20List%20Cycle.md) | Easy |
 | 142 | Linked List Cycle II| [here](https://github.com/ParshinAD/leetcode/blob/421ccc3ad89f9d13624fdd59e6736991b3df789c/algorithms/142.%20Linked%20List%20Cycle%20II.md) | Medium |
 | 144 | Binary Tree Preorder Traversal (dfs) | [here](https://github.com/ParshinAD/leetcode/blob/26c7c57659c97d0bb4b90bbb510c27a537419c57/algorithms/144.%20Binary%20Tree%20Preorder%20Traversal.md) | Easy |
 | 149 | Max Points on a Line | [here](https://github.com/ParshinAD/leetcode/blob/08f0f580fdb9b45ebd147b1f57709e79f52bde30/algorithms/149.%20Max%20Points%20on%20a%20Line.md) | Hard |
