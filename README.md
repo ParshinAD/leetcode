@@ -99,6 +99,7 @@ my solution for some leetcode tasks
 | 646 | Maximum Length of Pair Chain | [here](https://github.com/ParshinAD/leetcode/blob/ac93c2f960ed8be99150b653742e46732a4d564f/algorithms/646.%20Maximum%20Length%20of%20Pair%20Chain.md) | Medium |
 | 652 | Find Duplicate Subtrees | [here](https://github.com/ParshinAD/leetcode/blob/108aa57aadcf0390150693227ce16acc5652a91f/algorithms/652.%20Find%20Duplicate%20Subtrees.md) | Medium |
 | 712 | Minimum ASCII Delete Sum for Two Strings | [here](https://github.com/ParshinAD/leetcode/blob/b5a5160a732c95cefeb85d1a91ebd29a12212074/algorithms/712.%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.md) | Medium | 
+| 725 | Split Linked List in Parts | [here](https://github.com/ParshinAD/leetcode/blob/8d75dd2b0da67e6f647e66937decad3b47c22cad/algorithms/725.%20Split%20Linked%20List%20in%20Parts.md) | Medium |
 | 744 | Find Smallest Letter Greater Than Target | [here](https://github.com/ParshinAD/leetcode/blob/8e1c32054d95a876da96eb6e0cd78fb4e97dee8f/algorithms/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md) | Easy |
 | 787 | Cheapest Flights Within K Stops | [here](https://github.com/ParshinAD/leetcode/blob/a232b1afa8f1cf3e891fc96de307bea65f86ef0f/algorithms/787.%20Cheapest%20Flights%20Within%20K%20Stops.md) | Medium |
 | 797 | All Paths From Source to Target (DFS) | [here](https://github.com/ParshinAD/leetcode/blob/7548341fe4eee57dc4c5a46cd21705f61934bd1d/algorithms/797.%20All%20Paths%20From%20Source%20to%20Target.md) | Medium | 
