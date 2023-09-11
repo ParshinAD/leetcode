@@ -127,6 +127,7 @@ my solution for some leetcode tasks
 | 1143 | Longest Common Subsequence | [here](https://github.com/ParshinAD/leetcode/blob/e693eb01001c45fa19b5b1b8aa27c9dab80ea11d/algorithms/1143.%20Longest%20Common%20Subsequence.md) | Medium |
 | 1161 | Maximum Level Sum of a Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/98b9e278eb183fa3dd46b2d67639fa151c362d9e/algorithms/1161.%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.md) | Medium |
 | 1207 | Unique Number of Occurrences | [here](https://github.com/ParshinAD/leetcode/blob/984cbbb84273e3e618ee1a598a12ebb01fc89d4a/algorithms/1207.%20Unique%20Number%20of%20Occurrences.md) | Easy |
+| 1282 | Group the People Given the Group Size They Belong To | [here](https://github.com/ParshinAD/leetcode/blob/2926934e1587b8ca6943cc87e7a1ef13510e959f/algorithms/1282.%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md) | Medium |
 | 1339 | Maximum Product of Splitted Binary Tree | [here](https://github.com/ParshinAD/leetcode/blob/26674716066b948f2bb548980fadd9636bccb955/algorithms/1339.%20Maximum%20Product%20of%20Splitted%20Binary%20Tree.md) |Medium |
 | 1345 | Jump Game IV | [here](https://github.com/ParshinAD/leetcode/blob/02217c414750f89caff2b9502695f8304da4ec40/algorithms/1345.%20Jump%20Game%20IV.md) | Hard |
 | 1376 | Time Needed to Inform All Employees | [here](https://github.com/ParshinAD/leetcode/blob/5e14c62525f8b7e5f41209c089ae0b163d71b1fe/algorithms/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.md) | Medium | 
