@@ -80,6 +80,7 @@ my solution for some leetcode tasks
 | 374 | Guess Number Higher or Lower | [here](https://github.com/ParshinAD/leetcode/blob/c1be73e46fd3ff7ab9c2abca2909c97621659dab/algorithms/374.%20Guess%20Number%20Higher%20or%20Lower.md)| Easy |
 | 380 | Insert Delete GetRandom O(1) | [here](https://github.com/ParshinAD/leetcode/blob/52ff73bc2d97db8cc3533251aeb32f66c3e4717a/algorithms/380.%20Insert%20Delete%20GetRandom%20O(1).md) | Medium |
 | 382 | Linked List Random Node | [here](https://github.com/ParshinAD/leetcode/blob/97cd51ce310bdc23a876d2266caa20154b3e8079/algorithms/382.%20Linked%20List%20Random%20Node.md) | Medium |
+| 392 | Is Subsequence | [here](https://github.com/ParshinAD/leetcode/blob/5bdead724a475df2eae23a36d3128942078b3396/algorithms/392.%20Is%20Subsequence.md) | Easy |
 | 427 | Construct Quad Tree | [here](https://github.com/ParshinAD/leetcode/blob/764f09fd6d9204d3674da762afa54e3408a2001a/algorithms/427.%20Construct%20Quad%20Tree.md) | Medium | 
 | 438 | Find All Anagrams in a String | [here](https://github.com/ParshinAD/leetcode/blob/57792ddcbadae4292fcd009d0af1ffb685e980cb/algorithms/438.%20Find%20All%20Anagrams%20in%20a%20String.md) | Medium |
 | 443 | String Compression | [here](https://github.com/ParshinAD/leetcode/blob/a751689406da918873c434f0e3855969b40794f7/algorithms/443.%20String%20Compression.md) | Medium |
