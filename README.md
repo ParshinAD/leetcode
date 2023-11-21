@@ -51,6 +51,7 @@ my solution for some leetcode tasks
 | 129 | Sum Root to Leaf Numbers | [here](https://github.com/ParshinAD/leetcode/blob/8e2da2b1d9450fd9fb7e7434fffb38b1649e7c8b/algorithms/129.%20Sum%20Root%20to%20Leaf%20Numbers.md) | Medium | 
 | 131 | Palindrome Partitioning | [here](https://github.com/ParshinAD/leetcode/blob/d21e3be5b56cf7f913e0db02696eb0a1b5c4230f/algorithms/131.%20Palindrome%20Partitioning.md) | Medium |
 | 134 | Gas Station | [here](https://github.com/ParshinAD/leetcode/blob/c4ee6a731cc2c8c75880a16284b576beefd4d43e/algorithms/134.%20Gas%20Station.md) | Medium |
+| 136 | Single Number | [here](https://github.com/ParshinAD/leetcode/blob/cb74d2e94832f1ecd6466feb4726301e0b637558/algorithms/136.%20Single%20Number.md) | Easy |
 | 138 | Copy List with Random Pointer | [here](https://github.com/ParshinAD/leetcode/blob/35a622bc3a52497a54e59c7162c7a54270033458/algorithms/138.%20Copy%20List%20with%20Random%20Pointer.md) | Medium |
 | 139 | Word Break | [here](https://github.com/ParshinAD/leetcode/blob/f66fc696c56bc8888df795e110d1d488bbb411fa/algorithms/139.%20Word%20Break.md) | Medium |
 | 141 | Linked List Cycle | [here](https://github.com/ParshinAD/leetcode/blob/7938e3e296d24b41702db68713347f48b52360ae/algorithms/141.%20Linked%20List%20Cycle.md) | Easy |
